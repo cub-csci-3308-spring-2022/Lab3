@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-Project Team Members: Rafael Basurto
-=======
->>>>>>> main
+Project Team Members:
+Rafael Basurto
