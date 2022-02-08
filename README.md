@@ -3,3 +3,4 @@ Isaac Wilcove
 Rafael Basurto
 Kyle Shi
 Jake Davis
+Connor Parkes
