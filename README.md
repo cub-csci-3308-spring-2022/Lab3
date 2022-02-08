@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 Project Team Members:
+Isaac Wilcove
+Rafael Basurto
 Kyle Shi
-=======
-!!!!! 
->>>>>>> main
+Jake Davis
+Connor Parkes
