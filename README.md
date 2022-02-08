@@ -1,5 +1,4 @@
-Project Team Members: 
+Project Team Members:
+Isaac Wilcove
+Rafael Basurto
 Jake Davis
-
-
-Approved the changes - kyle. 
